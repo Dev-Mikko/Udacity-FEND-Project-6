@@ -19,3 +19,4 @@ It's an improved versione of "Restaurant Reviews" web app. This is the list of i
 
 - Michele "*Dev_Mikko*" De Palma
 - Udacity for the base code of the project
+- MapBox for the maps API
