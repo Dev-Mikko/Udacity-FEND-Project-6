@@ -172,6 +172,8 @@ nav h1 a {
 /* ====================== Restaurant Listing ====================== */
 
 #restaurants-list {
+	display: flex;
+	flex-wrap: wrap;
 	background-color: #f3f3f3;
 	list-style: outside none none;
 	margin: 0;
@@ -180,13 +182,13 @@ nav h1 a {
 }
 
 #restaurants-list li {
+	margin: 10px auto;
 	background-color: #fff;
 	border: 2px solid #ccc;
 	font-family: Arial,sans-serif;
-	margin: 15px;
 	min-height: 380px;
 	padding: 0 30px 25px;
-	text-align: left;
+	text-align: center;
 	width: 270px;
 }
 
