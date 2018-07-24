@@ -14,7 +14,7 @@ It's an improved versione of "Restaurant Reviews" web app. This is the list of i
 - Download python3 and install it
 - Download the project
 - Open your terminal and move to the project directory
-- Execute the command python3 -m http.server 8000
+- Execute the command ```python -m http.server 8000```
 - Open your browser and go to http://localhost:8000
 - Edit "swcontroller.js" to add new feature for the service worker
 - Edit "css/styles.css" to improve the responsive design
